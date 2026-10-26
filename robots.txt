@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zoro1228.github.io/mubafaapp/sitemap.xml
